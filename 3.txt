@@ -1,3 +1,7 @@
 新增文件
 dev修改了文件3
+<<<<<<< HEAD
 dev分支修改了文件3
+=======
+feature修改文件3
+>>>>>>> remotes/origin/feature
